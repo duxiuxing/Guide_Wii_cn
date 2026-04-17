@@ -1,12 +1,13 @@
 # Priiloader Usage
 
-Priiloader is an essential tool that adds a level of brick protection to your Wii. It loads before the Wii System Menu does. The tool can also apply hacks that are used to enhance, unlock, and/or fix many System Menu features.
+Priiloader 能够在 Wii 的系统菜单启动之前加载，以此得名：Pre Loader。玩家在修改游戏主机的时候，错误的操作会导致设备因软件故障而无法启动，如同砖块一样无用，这种情况被形象地称之为：**变砖（Brick）**。而 Priiloader 最为人熟知的功能就是：**防砖、救砖**，就冲这一点，你就应该把它视为 Wii 的必装 App。
 
-Additionally, it can be used to quickly launch any Title or Homebrew, or change the way Wii autoboots.
+Priiloader 包含了各种能够增强、解锁和修复系统菜单的功能。甚至还可以修改 Wii 的默认启动设置，跳过系统菜单，开机直接启动指定的自制软件。
 
-This page documents some of the useful features of Priiloader that may be of interest.
+本文记录了 Priiloader 上的那些可能对你有用的功能特性。
 
-## System Menu Hacks
+
+## System Menu Hacks（破解系统菜单）
 
 Priiloader has a large selection of options that, once enabled, change the behaviour of the Wii to one of your choice. You can find more information on each hack on the [Priiloader hacks list](https://dacotaco.github.io/priiloader/docs/HACKSLIST.html). Additionally, you can visit the [Priiloader FAQ](https://dacotaco.github.io/priiloader/docs/FAQ.html) which has more relevant information regarding System Menu hacks.
 
